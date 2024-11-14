@@ -4,4 +4,4 @@ awscli >=1.30.0, <1.31.0
 twine ==4.0.1
 importlib-metadata <8.0.0
 wget
-packaging <24.2
+packaging <24.3
